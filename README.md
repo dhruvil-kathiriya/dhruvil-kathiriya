@@ -1,8 +1,6 @@
-# Hi there, I'm Dhruvil Kathiriya! 👋
+# 👋 Hi, I'm Dhruvil! 
 
-👨💻 Full-Stack Developer | 🚀 Open Source Contributor | ☁️ AI Enthusiast | 🧠 Problem Solver
-
-## 🌟 About Me
+💻 Full-Stack Developer | 🚀 Open Source Contributor | ☁️ AI Enthusiast | 🧠 Problem Solver 
 
 I'm a passionate developer with a knack for building robust, scalable solutions and solving complex problems. With hands-on experience across the entire development stack, I thrive in creating seamless digital experiences that bridge the gap between user needs and technical possibilities.
 
