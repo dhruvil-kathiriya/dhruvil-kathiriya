@@ -9,9 +9,8 @@ I'm a passionate developer with a knack for building robust, scalable solutions 
 - 🔭 Currently building scalable web applications with Next.js and exploring cutting-edge AI architectures
 - 🌱 Deep diving into Server-Side Rendering (SSR) , Static Site Generation (SSG) , and the fundamentals of Artificial Intelligence
 - 💡 Passionate about integrating AI models into modern web development workflows using Next.js APIs and Edge Computing
-- 🏆 Exploring cloud-based AI solutions and Seamless Integrations 
 - 🎓 Computer Science student with 3+ years of development experience
-- ⚡ Fun fact: When not coding, I love Book Reading 🏞️ and experimenting with AI! 
+- ⚡ Fun fact: When not coding, I love Book Reading 📔 and experimenting with AI! 
 
 ## 🛠️ Technologies & Tools
 
