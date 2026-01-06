@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dhruvil! 
 
-💻 Full-Stack Developer | 🚀 Open Source Contributor | ☁️ AI Enthusiast | 🧠 Problem Solver 
+💻 Full-Stack Web Developer | ☁️ AI Enthusiast | 🧠 Problem Solver 
 
 I'm a passionate developer with a knack for building robust, scalable solutions and solving complex problems. With hands-on experience across the entire development stack, I thrive in creating seamless digital experiences that bridge the gap between user needs and technical possibilities.
 
@@ -13,9 +13,10 @@ I'm a passionate developer with a knack for building robust, scalable solutions 
 ## 🛠️ Technologies & Tools
 
 ### Programming Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 
 ### Frontend Development
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -71,6 +72,5 @@ I'm a passionate developer with a knack for building robust, scalable solutions 
 ## 📫 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/dhruvil-kathiriya/)
-- 🐦 [Twitter](https://twitter.com/dhruvil_05)
-- 📧 [Email](mailto:dhruvil07.dev@gmail.com)
+
 
