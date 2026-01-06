@@ -64,11 +64,6 @@ I'm a passionate developer with a knack for building robust, scalable solutions 
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dhruvil-kathiriya&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 ## 📫 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/dhruvil-kathiriya/)
