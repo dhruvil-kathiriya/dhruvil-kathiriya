@@ -32,24 +32,6 @@ My core competitive advantage lies at the intersection of complex data modeling 
 
 ---
 
-## 📈 Featured Intelligent Applications
-
-### [📐 Face Shape Analyzer: Geometric Computer Vision Engine](https://github.com/dhruvil-kathiriya/Face-Shape-Analyze)
-An end-to-end Computer Vision deployment that maps high-dimensional spatial data (68 facial landmark coordinates) into scale-invariant geometric ratio matrices. 
-* **Data Science Core:** Extracted relative distances (Jawline, Cheekbone, Facial Index) to feed a deterministic classification decision tree eliminating deep-learning scale variance.
-* **Production Stack:** Built via WebRTC for raw video frame capture and Node.js/Express for edge-based local model deployment.
-
-### [🛍️ Full-Stack E-Commerce Infrastructure](https://github.com/dhruvil-kathiriya/Ecommerce-Website)
-A highly scalable, data-ready e-commerce platform built to handle complex relational events.
-* **Architecture:** Node.js, Express, and MongoDB powering dynamic inventory management, search optimization vectors, secure filtering algorithms, and complete payment pipelines.
-* **Data Potential:** Configured to easily pipeline user-transaction loops and behavior telemetry into downstream predictive recommendation engines.
-
-### [📝 Secure Content Management Platform](https://github.com/dhruvil-kathiriya/Blog-Project)
-A production-ready Web App engineered to process structured textual inputs.
-* **Architecture:** Node.js, Express, and MongoDB Atlas. Incorporates rigorous user data validation frameworks, secure authorization protocols, and automated index queries for search handling.
-
----
-
 ## 📊 2026 Optimization Roadmap
 
 To transition aggressively into Enterprise Data Science roles, my immediate technical roadmap is focused on upgrading my open-source profile from web frameworks to data pipelines:
